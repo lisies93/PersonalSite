@@ -6,4 +6,5 @@
 
 * HTML5
 * CSS3
+* Atom
 * 
